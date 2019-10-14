@@ -1,0 +1,7 @@
+﻿Sequencing Technology,Average read length,Error Rate (%),Throughput (Gbp)
+Illumina HiSeq,250,0.20%,300
+Illumina MiSeq,300,0.20%,15
+IonTorrent,400,1%,2
+Nanopore,"9,545",32%,42
+PacBio,13500,13%,12
+Sanger,800,0.10%,0.0000768
